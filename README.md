@@ -17,3 +17,7 @@ This example is to show different parts of the Git repository and various comman
 
 Sample website with plenty of files for demos.
 This example is to show different parts of the Git repository and various commands using a web project.
+
+### Copyright
+
+Copyright (C) 2025
