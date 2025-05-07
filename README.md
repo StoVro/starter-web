@@ -20,4 +20,4 @@ This example is to show different parts of the Git repository and various comman
 
 ### Copyright
 
-Copyright (C) 2025 (VS)
+Copyright (C) 2025
